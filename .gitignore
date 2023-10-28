@@ -24,3 +24,5 @@ go.work
 *.rdb
 *.aof
 
+# Editor files
+.idea/*

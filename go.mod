@@ -1,3 +1,3 @@
-module github.com/TMiller00/shredis
+module shredis
 
 go 1.21.1
